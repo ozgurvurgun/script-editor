@@ -5,3 +5,5 @@ unlink($_SESSION['user'].".txt");
 $_SESSION=array();
 session_destroy();
 header("location:panellogin.php");
+
+?>

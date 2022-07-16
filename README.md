@@ -9,6 +9,6 @@
  vb.
 
 
- - Hemen kullanmak isterseniz 
+ - Hemen kullanmak isterseniz https://www.ozgurvrgn.xyz/panellogin.php
  kullanıcı adı: beta1.0
  şifre: passwbeta1.0
